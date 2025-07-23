@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+is+chronicle12345/undercat👋)](https://github.com/chronicle12345)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+is+chronicle12345/undercat👋)
+
+![](https://raw.githubusercontent.com/chronicle12345/chronicle12345/refs/heads/output/github-contribution-grid-snake.svg)
 
 <div align="center"><img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=chronicle12345&theme=github-compact&hide_border=true&area=true" /></div>
 
